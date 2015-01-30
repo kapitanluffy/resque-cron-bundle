@@ -1,0 +1,14 @@
+{
+    "name": "kapitanluffy/resque-cron-bundle",
+    "description": "Adds scheduler support for BCCResqueBundle",
+    "require": {
+        "bcc/resque-bundle": "~1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kapitanluffy pirata",
+            "email": "kapitanluffy@gmail.com"
+        }
+    ]
+}

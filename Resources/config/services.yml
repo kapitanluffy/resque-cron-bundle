@@ -1,0 +1,8 @@
+services:
+#    resque_cron.example:
+#        class: kapitanluffy\ResqueCronBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
+    resque_cron:
+       class: kapitanluffy\ResqueCronBundle\ResqueCron
+       arguments: [@bcc_resque.resque]
+

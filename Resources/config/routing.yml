@@ -1,0 +1,3 @@
+resque_cron_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: ResqueCronBundle:Default:index }
