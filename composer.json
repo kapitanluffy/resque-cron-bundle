@@ -16,5 +16,5 @@
     ],
     "autoload": {
         "psr-0": { "kapitanluffy\\ResqueCronBundle": "src" }
-    },
+    }
 }
