@@ -13,7 +13,7 @@
             "email": "kapitanluffy@gmail.com",
             "homepage": "http://piratelufi.com"
         }
-    ]
+    ],
     "autoload": {
         "psr-0": { "kapitanluffy\\ResqueCronBundle": "src" }
     },
