@@ -1,5 +1,6 @@
 {
     "name": "kapitanluffy/resque-cron-bundle",
+    "type": "symfony-bundle",
     "description": "Adds scheduler support for BCCResqueBundle",
     "require": {
         "bcc/resque-bundle": "~1.1"
@@ -8,7 +9,11 @@
     "authors": [
         {
             "name": "kapitanluffy pirata",
-            "email": "kapitanluffy@gmail.com"
+            "email": "kapitanluffy@gmail.com",
+            "homepage": "http://piratelufi.com"
         }
     ]
+    "autoload": {
+        "psr-0": { "kapitanluffy\\ResqueCronBundle": "src" }
+    },
 }
