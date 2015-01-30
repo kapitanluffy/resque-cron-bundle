@@ -2,6 +2,7 @@
     "name": "kapitanluffy/resque-cron-bundle",
     "type": "symfony-bundle",
     "description": "Adds scheduler support for BCCResqueBundle",
+    "homepage": "https://github.com/kapitanluffy/resque-cron-bundle",
     "require": {
         "bcc/resque-bundle": "~1.1"
     },
