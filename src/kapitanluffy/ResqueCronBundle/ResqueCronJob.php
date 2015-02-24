@@ -2,7 +2,6 @@
 
 namespace kapitanluffy\ResqueCronBundle;
 
-use Pickld\ApiBundle\Interfaces as Interfaces;
 use BCC\ResqueBundle\ContainerAwareJob;
 use Symfony\Component\DependencyInjection as DI;
 
